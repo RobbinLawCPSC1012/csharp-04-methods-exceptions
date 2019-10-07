@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1877E3B0-6CE1-424E-A7E2-20C02495CAA0}</ProjectGuid>
+    <ProjectGuid>{0A6871B3-7213-4B88-9703-CC212201C4B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_40_try_catch_Triangles</RootNamespace>
-    <AssemblyName>40-try-catch-Triangles</AssemblyName>
+    <RootNamespace>_40_try_catch_DrawTriangles</RootNamespace>
+    <AssemblyName>40-try-catch-DrawTriangles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

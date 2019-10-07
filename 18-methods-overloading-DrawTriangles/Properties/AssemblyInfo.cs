@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("40-try-catch-Triangles")]
+[assembly: AssemblyTitle("18-methods-overloading-DrawTriangles")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("40-try-catch-Triangles")]
+[assembly: AssemblyProduct("18-methods-overloading-DrawTriangles")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1877e3b0-6ce1-424e-a7e2-20c02495caa0")]
+[assembly: Guid("7e33d354-43dc-4e19-9e61-7d9edb96fc80")]
 
 // Version information for an assembly consists of the following four values:
 //

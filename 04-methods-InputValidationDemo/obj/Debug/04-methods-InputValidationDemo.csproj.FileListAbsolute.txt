@@ -1,0 +1,7 @@
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\bin\Debug\04-methods-InputValidationDemo.exe.config
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\bin\Debug\04-methods-InputValidationDemo.exe
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\bin\Debug\04-methods-InputValidationDemo.pdb
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\obj\Debug\04-methods-InputValidationDemo.csprojAssemblyReference.cache
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\obj\Debug\04-methods-InputValidationDemo.csproj.CoreCompileInputs.cache
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\obj\Debug\04-methods-InputValidationDemo.exe
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\04-methods-InputValidationDemo\obj\Debug\04-methods-InputValidationDemo.pdb

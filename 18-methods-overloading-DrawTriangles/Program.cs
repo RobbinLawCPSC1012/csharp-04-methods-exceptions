@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _40_try_catch_Triangles
+namespace _18_methods_overloading_DrawTriangles
 {
     class Program
     {
