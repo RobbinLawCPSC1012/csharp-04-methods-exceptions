@@ -25,6 +25,8 @@ namespace _02_methods_Demo
         {
             int x;
             String s;
+
+            printHello();
             printIt("fun", 2);
             x = add(2,3);
             s = x.ToString();
