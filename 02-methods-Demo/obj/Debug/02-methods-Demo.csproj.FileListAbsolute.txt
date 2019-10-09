@@ -5,3 +5,10 @@ C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\02-methods-Demo\bin\D
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\02-methods-Demo\bin\Debug\02-methods-Demo.pdb
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\02-methods-Demo\obj\Debug\02-methods-Demo.exe
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\02-methods-Demo\obj\Debug\02-methods-Demo.pdb
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\bin\Debug\02-methods-Demo.exe.config
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\bin\Debug\02-methods-Demo.exe
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\bin\Debug\02-methods-Demo.pdb
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\obj\Debug\02-methods-Demo.csprojAssemblyReference.cache
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\obj\Debug\02-methods-Demo.csproj.CoreCompileInputs.cache
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\obj\Debug\02-methods-Demo.exe
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions2\02-methods-Demo\obj\Debug\02-methods-Demo.pdb

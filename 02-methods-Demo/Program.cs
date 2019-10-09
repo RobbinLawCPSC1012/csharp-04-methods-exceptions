@@ -8,9 +8,12 @@ namespace _02_methods_Demo
 {
     class Program
     {
-
-        static void printIt(String myString){
-            Console.WriteLine($"Hey my string is: {myString}");
+        static void printHello(){
+            Console.WriteLine($"Hello");
+        }
+        
+        static void printIt(String myString, int myInt){
+            Console.WriteLine($"Hey my string is: {myString}, and my int is {myInt}");
         }
 
 
@@ -22,10 +25,10 @@ namespace _02_methods_Demo
         {
             int x;
             String s;
-            printIt("fun");
+            printIt("fun", 2);
             x = add(2,3);
             s = x.ToString();
-            printIt(s);
+            printIt(s, x);
         }
 
 

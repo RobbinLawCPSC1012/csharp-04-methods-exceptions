@@ -28,7 +28,9 @@ namespace _04_methods_InputValidationDemo
             Console.WriteLine("Enter a number between 0 and 1000:");
             int num = int.Parse(Console.ReadLine());
 
-            if (num <= 0 || num >= 1000) GetNum();
+            if (num <= 0 || num >= 1000) {
+                return GetNum();
+            }
 
             return num;
         }
