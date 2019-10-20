@@ -29,10 +29,10 @@ namespace _40_try_catch_DrawTriangles
          * */
         static void Main(string[] args)
         {
-            int num = GetNumber("Enter the number of rows: ");
+            int num = GetNumber("Enter the number of rows between 1 and 10: ");
             Console.Write("Enter the Draw Character: ");
 
-            char c = char.Parse(Console.ReadLine());
+            char c = GetCharacter("Enter a character to print: ");
             Console.WriteLine("\nDefault");
             DrawTriangle(num);
             Console.WriteLine("\nCustom");
@@ -64,6 +64,27 @@ namespace _40_try_catch_DrawTriangles
                 }
             }
             return num;
+        }
+
+        static char GetCharacter(string msg)
+        {
+            bool validInput = false;
+            char c = 'c';
+
+            while (!validInput)
+            {
+                Console.Write(msg);
+                try
+                {
+                    c = char.Parse(Console.ReadLine());
+                    validInput = true;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error: {ex.Message}");
+                }
+            }
+            return c;
         }
 
         static void DrawTriangle(int rows)
