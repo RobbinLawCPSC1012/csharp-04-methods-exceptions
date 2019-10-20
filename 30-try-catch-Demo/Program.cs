@@ -21,8 +21,6 @@ namespace _30_try_catch_Demo
             Console.WriteLine($"The incremented input is: {myInt3}");
         }
 
-    
-
         static int getIntInput1(String msg)
         {
             bool validInput = false;
@@ -48,13 +46,10 @@ namespace _30_try_catch_Demo
                 try
                 {
                     num = int.Parse(Console.ReadLine());
-
                     if (num > 0)
                         validInput = true;
                     else
-                    {
                         Console.WriteLine("Invalid Input. Number must be bigger than zero.");
-                    }
                 }
                 catch (Exception ex)
                 {
@@ -80,7 +75,7 @@ namespace _30_try_catch_Demo
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Error: {ex}");
+                    Console.WriteLine($"Error in getIntInput3: {ex}");
                 }
             }
             return num;
@@ -98,7 +93,7 @@ namespace _30_try_catch_Demo
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Error: {ex}");
+                    Console.WriteLine($"Error in letUsDoThisRight: {ex}");
                 }
             }
             return num;
