@@ -75,7 +75,8 @@ namespace _30_try_catch_Demo
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Error in getIntInput3: {ex}");
+                    Console.WriteLine($"Error in getIntInput3: {ex.Message}");
+                    throw;
                 }
             }
             return num;
@@ -93,7 +94,7 @@ namespace _30_try_catch_Demo
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Error in letUsDoThisRight: {ex}");
+                    Console.WriteLine($"Error in letUsDoThisRight: {ex.Message}");
                 }
             }
             return num;
