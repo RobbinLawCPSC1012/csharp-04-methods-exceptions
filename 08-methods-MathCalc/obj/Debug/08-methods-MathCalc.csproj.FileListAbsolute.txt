@@ -5,3 +5,10 @@ C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\08-methods-MathCalc\o
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.csproj.CoreCompileInputs.cache
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.exe
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.pdb
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\bin\Debug\08-methods-MathCalc.exe.config
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\bin\Debug\08-methods-MathCalc.exe
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\bin\Debug\08-methods-MathCalc.pdb
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.csprojAssemblyReference.cache
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.csproj.CoreCompileInputs.cache
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.exe
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\08-methods-MathCalc\obj\Debug\08-methods-MathCalc.pdb
