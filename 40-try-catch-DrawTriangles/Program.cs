@@ -30,8 +30,6 @@ namespace _40_try_catch_DrawTriangles
         static void Main(string[] args)
         {
             int num = GetNumber("Enter the number of rows between 1 and 10: ");
-            Console.Write("Enter the Draw Character: ");
-
             char c = GetCharacter("Enter a character to print: ");
             Console.WriteLine("\nDefault");
             DrawTriangle(num);

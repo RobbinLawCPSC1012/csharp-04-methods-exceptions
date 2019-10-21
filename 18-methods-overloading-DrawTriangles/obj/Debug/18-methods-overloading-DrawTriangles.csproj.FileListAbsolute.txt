@@ -5,3 +5,10 @@ C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\18-methods-overloadin
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.csproj.CoreCompileInputs.cache
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.exe
 C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.pdb
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\bin\Debug\18-methods-overloading-DrawTriangles.exe.config
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\bin\Debug\18-methods-overloading-DrawTriangles.exe
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\bin\Debug\18-methods-overloading-DrawTriangles.pdb
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.csprojAssemblyReference.cache
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.csproj.CoreCompileInputs.cache
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.exe
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\18-methods-overloading-DrawTriangles\obj\Debug\18-methods-overloading-DrawTriangles.pdb
