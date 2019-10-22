@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\40-try-catch-DrawTriangles"
   ],
-  "SelectedNode": "\\40-try-catch-DrawTriangles",
+  "SelectedNode": "\\40-try-catch-DrawTriangles\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
