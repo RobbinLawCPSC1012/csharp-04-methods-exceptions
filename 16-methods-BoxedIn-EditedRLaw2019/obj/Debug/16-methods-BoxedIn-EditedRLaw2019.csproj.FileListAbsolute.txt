@@ -5,3 +5,10 @@ C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions34\16-methods-BoxedIn-
 C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions34\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.csproj.CoreCompileInputs.cache
 C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions34\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.exe
 C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions34\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.pdb
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\bin\Debug\16-methods-BoxedIn-EditedRLaw2019.exe.config
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\bin\Debug\16-methods-BoxedIn-EditedRLaw2019.exe
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\bin\Debug\16-methods-BoxedIn-EditedRLaw2019.pdb
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.csprojAssemblyReference.cache
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.csproj.CoreCompileInputs.cache
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.exe
+C:\Users\robbinl\Source\Repos\csharp-04-methods-exceptions\16-methods-BoxedIn-EditedRLaw2019\obj\Debug\16-methods-BoxedIn-EditedRLaw2019.pdb

@@ -10,26 +10,48 @@ namespace _04_methods_InputValidationDemo
     {
         static void Main(string[] args)
         {
-            int num = GetNum();
+            double windowWidth = getValue(
+            "Enter width of window in feet ", 2.0, 6.0);
 
-            int sum = 0;
-            while (num != 0)
-            {
-                int digit = num % 10;
-                //Console.Write($"Num: {num} Digit: {digit} ");
-                sum += digit;
-                num /= 10;
-            }
-            Console.WriteLine($"The sum of the digits is: {sum}");
+            Console.WriteLine($"Window Width: {windowWidth} feet");
+
+            double age = getValue("Enter your age in years ", 0, 70);
+
+            Console.WriteLine($"Your Age is: {age} years");
+
+            int num = getNum("Enter a integer number ", 0, 1000);
+
+            Console.WriteLine($"The entered number is: {num}");
         }
 
-        static int GetNum()
+        static double getValue(
+            string prompt, // prompt for the user 
+            double low,    // lowest allowed value
+            double high    // highest allowed value
+            )
         {
-            Console.WriteLine("Enter a number between 0 and 1000:");
-            int num = int.Parse(Console.ReadLine());
+            double result = 0;
+            do
+            {
+                Console.WriteLine(prompt +
+                   " between " + low +
+                    " and " + high);
+                string resultString = Console.ReadLine();
+                result = double.Parse(resultString);
+            } while ((result < low) || (result > high));
+            return result;
+        }
+
+        static int getNum(string prompt, int low, int high)
+        {
+            Console.WriteLine(prompt +
+                   " between " + low +
+                    " and " + high);
+                string resultString = Console.ReadLine();
+                int num = int.Parse(resultString);
 
             if (num <= 0 || num >= 1000) {
-                return GetNum();
+                return getNum("Enter a integer number ", 0, 1000);
             }
 
             return num;

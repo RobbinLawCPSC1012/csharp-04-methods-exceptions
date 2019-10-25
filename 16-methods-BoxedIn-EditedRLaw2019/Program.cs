@@ -46,12 +46,19 @@ namespace _16_methods_BoxedIn_EditedRLaw2019
             return c;
         }
 
-        static void DrawTriangle(int rows, char drawChar)
+        static void DrawBox(int rows, char drawChar)
         {
             for (int i = 1; i <= rows; i++)
             {
-                DrawRow(i, drawChar);
+                DrawRow(rows, drawChar);
+                Console.Write($"\n");
             }
         }
+
+        static void DrawRow(int rows, char drawChar){
+            for(int i =1; i <= rows; i++){
+                Console.Write($"{drawChar}");
+            }
+}
     }
 }
