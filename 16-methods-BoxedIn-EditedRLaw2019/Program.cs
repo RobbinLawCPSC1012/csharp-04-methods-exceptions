@@ -12,10 +12,7 @@ namespace _16_methods_BoxedIn_EditedRLaw2019
         {
             int num = GetNumber("Enter the number of rows between 1 and 10: ");
             char c = GetCharacter("Enter a character to print: ");
-            Console.WriteLine("\nDefault");
-            DrawTriangle(num);
-            Console.WriteLine("\nCustom");
-            DrawTriangle(num, c);
+            DrawBox(num, c);
         }
 
         static int GetNumber(string msg)
@@ -49,27 +46,12 @@ namespace _16_methods_BoxedIn_EditedRLaw2019
             return c;
         }
 
-        static void DrawTriangle(int rows)
-        {
-            char c = '*';
-            DrawTriangle(rows, c);
-        }
-
         static void DrawTriangle(int rows, char drawChar)
         {
             for (int i = 1; i <= rows; i++)
             {
                 DrawRow(i, drawChar);
             }
-        }
-
-        static void DrawRow(int len, char c)
-        {
-            for (int i = 0; i < len; i++)
-            {
-                Console.Write(c);
-            }
-            Console.Write("\n");
         }
     }
 }
