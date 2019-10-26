@@ -23,14 +23,14 @@ namespace _30_try_catch_Demo
 
         static int getIntInput1(String msg)
         {
-            bool validInput = false;
+            bool inValidInput = true;
             int num = 0;
-            while (!validInput)
+            while (inValidInput)
             {
                 Console.Write(msg);
                 num = int.Parse(Console.ReadLine());
                 if (num > 0)
-                    validInput = true;
+                    inValidInput = false;
                 else
                     Console.WriteLine("Invalid Input. Number must be bigger than zero.");
             }
@@ -38,16 +38,16 @@ namespace _30_try_catch_Demo
         }
         static int getIntInput2(String msg)
         {
-            bool validInput = false;
+            bool inValidInput = true;
             int num = 0;
-            while (!validInput)
+            while (inValidInput)
             {
                 Console.Write(msg);
                 try
                 {
                     num = int.Parse(Console.ReadLine());
                     if (num > 0)
-                        validInput = true;
+                        inValidInput = false;
                     else
                         Console.WriteLine("Invalid Input. Number must be bigger than zero.");
                 }
@@ -60,16 +60,16 @@ namespace _30_try_catch_Demo
         }
         static int getIntInput3(String msg)
         {
-            bool validInput = false;
+            bool inValidInput = true;
             int num = 0;
-            while (!validInput)
+            while (inValidInput)
             {
                 Console.Write(msg);
                 try
                 {
                     num = int.Parse(Console.ReadLine());
                     if (num > 0)
-                        validInput = true;
+                        inValidInput = false;
                     else
                         throw new Exception("Invalid Input. Number must be bigger than zero.");
                 }
@@ -83,14 +83,14 @@ namespace _30_try_catch_Demo
         }
         static int letUsDoThisRight(String msg)
         {
-            bool validInput = false;
+            bool inValidInput = true;
             int num = 0;
-            while (!validInput)
+            while (inValidInput)
             {
                 try
                 {
                     num = getIntInput3(msg);
-                    validInput = true;
+                    inValidInput = false;
                 }
                 catch (Exception ex)
                 {
