@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{349069DB-9186-49D8-AF9B-F638C52EB476}</ProjectGuid>
+    <ProjectGuid>{846D7AA7-3BB6-4F02-BCBA-6805DC4DADCA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08_methods_MathCalc</RootNamespace>
-    <AssemblyName>08-methods-MathCalc</AssemblyName>
+    <RootNamespace>_08_methods_CircleAreaCircumference</RootNamespace>
+    <AssemblyName>08-methods-CircleAreaCircumference</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

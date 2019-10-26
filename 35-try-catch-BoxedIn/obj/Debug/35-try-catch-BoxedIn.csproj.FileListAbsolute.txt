@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\bin\Debug\35-try-catch-BoxedIn.exe.config
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\bin\Debug\35-try-catch-BoxedIn.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\bin\Debug\35-try-catch-BoxedIn.pdb
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\obj\Debug\35-try-catch-BoxedIn.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\obj\Debug\35-try-catch-BoxedIn.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\obj\Debug\35-try-catch-BoxedIn.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\35-try-catch-BoxedIn\obj\Debug\35-try-catch-BoxedIn.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _08_methods_MathCalc
+namespace _14_methods_MathCalc
 {
     class Program
     {

@@ -1,0 +1,6 @@
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\14-methods-MathCalc\bin\Debug\14-methods-MathCalc.exe.config
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\14-methods-MathCalc\bin\Debug\14-methods-MathCalc.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\14-methods-MathCalc\bin\Debug\14-methods-MathCalc.pdb
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\14-methods-MathCalc\obj\Debug\14-methods-MathCalc.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\14-methods-MathCalc\obj\Debug\14-methods-MathCalc.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\14-methods-MathCalc\obj\Debug\14-methods-MathCalc.pdb

@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\bin\Debug\08-methods-CircleAreaCircumference.exe.config
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\bin\Debug\08-methods-CircleAreaCircumference.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\bin\Debug\08-methods-CircleAreaCircumference.pdb
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\obj\Debug\08-methods-CircleAreaCircumference.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\obj\Debug\08-methods-CircleAreaCircumference.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\obj\Debug\08-methods-CircleAreaCircumference.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\08-methods-CircleAreaCircumference\obj\Debug\08-methods-CircleAreaCircumference.pdb

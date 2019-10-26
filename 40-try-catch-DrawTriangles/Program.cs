@@ -8,28 +8,9 @@ namespace _40_try_catch_DrawTriangles
 {
     class Program
     {
-        /*
-         * Purpose: 
-         *      - Draw triangles on the screen using a specificed character
-         *        while handling invalid inputs.
-         * 
-         * Input: 
-         *    - Size of Triangle
-         *    - Character to draw triangle with.
-         * 
-         * Process:
-         *      - Use a for loop to draw the correct number of characters. 
-         *
-         * Output:
-         *    - Display Asterix Triangle
-         *    - Display Custom Triangle
-         *         
-         * Written By: Robbin Law
-         * Date Modified: 2019-10-07
-         * */
         static void Main(string[] args)
         {
-            int num = GetNumber("Enter the number of rows between 1 and 10: ");
+            int num = GetNumber("Enter the number of rows", 1, 10);
             char c = GetCharacter("Enter a character to print: ");
             Console.WriteLine("\nDefault");
             DrawTriangle(num);
@@ -37,29 +18,26 @@ namespace _40_try_catch_DrawTriangles
             DrawTriangle(num, c);
         }
 
-        static int GetNumber(string msg)
+        static int GetNumber(string prompt, int low, int high)
         {
-            bool validInput = false;
+            bool invalidInput = true;
             int num = 0;
 
-            while (!validInput)
+            while (invalidInput)
             {
-                Console.Write(msg);
                 try
                 {
+                    Console.WriteLine($"{prompt} between {low} and {high}: ");
                     num = int.Parse(Console.ReadLine());
-
-                    if (num > 0 && num <= 10)
-                        validInput = true;
+                    if (num >= low && num <= high)
+                        invalidInput = false;
                     else
-                    {
-                        Console.WriteLine("Invalid Input. Number must be bigger than zero.");
-                    }
+                        Console.WriteLine("Error: Invalid Input.");
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Error: {ex}");
-                }
+                    Console.WriteLine($"Error: {ex.Message}");
+                }                
             }
             return num;
         }

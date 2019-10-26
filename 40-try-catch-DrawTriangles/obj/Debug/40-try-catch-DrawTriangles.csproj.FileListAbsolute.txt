@@ -19,3 +19,10 @@ C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\40-try-catch-DrawTr
 C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.csproj.CoreCompileInputs.cache
 C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.exe
 C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions12\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.pdb
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\bin\Debug\40-try-catch-DrawTriangles.exe.config
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\bin\Debug\40-try-catch-DrawTriangles.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\bin\Debug\40-try-catch-DrawTriangles.pdb
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\40-try-catch-DrawTriangles\obj\Debug\40-try-catch-DrawTriangles.pdb

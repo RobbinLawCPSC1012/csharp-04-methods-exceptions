@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\bin\Debug\32-try-catch-CircleAreaCircumference.exe.config
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\bin\Debug\32-try-catch-CircleAreaCircumference.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\bin\Debug\32-try-catch-CircleAreaCircumference.pdb
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\obj\Debug\32-try-catch-CircleAreaCircumference.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\obj\Debug\32-try-catch-CircleAreaCircumference.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\obj\Debug\32-try-catch-CircleAreaCircumference.exe
+C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\32-try-catch-CircleAreaCircumference\obj\Debug\32-try-catch-CircleAreaCircumference.pdb

@@ -10,24 +10,24 @@ namespace _16_methods_BoxedIn_EditedRLaw2019
     {
         static void Main(string[] args)
         {
-            int num = GetNumber("Enter the number of rows between 1 and 10: ");
+            int num = GetNumber("Enter the number of rows", 1, 10);
             char c = GetCharacter("Enter a character to print: ");
             DrawBox(num, c);
         }
 
-        static int GetNumber(string msg)
+        static int GetNumber(string prompt, int low, int high)
         {
             bool invalidInput = true;
             int num = 0;
 
             while (invalidInput)
             {
-                Console.Write(msg);
+                Console.WriteLine($"{prompt} between {low} and {high}: ");
                 num = int.Parse(Console.ReadLine());
-                if (num > 0 && num <= 10)
+                if (num >= low && num <= high)
                     invalidInput = false;
                 else
-                    Console.WriteLine("Invalid Input. Number must be bigger than zero.");
+                    Console.WriteLine("Error: Invalid Input.");
             }
             return num;
         }
@@ -55,10 +55,12 @@ namespace _16_methods_BoxedIn_EditedRLaw2019
             }
         }
 
-        static void DrawRow(int rows, char drawChar){
-            for(int i =1; i <= rows; i++){
+        static void DrawRow(int rows, char drawChar)
+        {
+            for(int i =1; i <= rows; i++)
+            {
                 Console.Write($"{drawChar}");
             }
-}
+        }
     }
 }
