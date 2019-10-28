@@ -18,6 +18,8 @@ namespace _04_methods_InputValidationDemo
             Console.WriteLine($"The entered number is: {num}");
             int num1 = getNum1("Enter a integer number", 0, 1000);
             Console.WriteLine($"The entered number is: {num1}");
+            int num2 = getNum2("Enter a integer number", 0, 1000);
+            Console.WriteLine($"The entered number is: {num2}");
         }
 
         static double getValue(
@@ -26,7 +28,7 @@ namespace _04_methods_InputValidationDemo
             double high    // highest allowed value
             )
         {
-            double result = low - 1;
+            double result;
             do
             {
                 Console.WriteLine($"{prompt} between {low:n1} and {high:n1}:");
@@ -47,7 +49,24 @@ namespace _04_methods_InputValidationDemo
             }
             return num;
         }
+
         static int getNum1(string prompt, int low, int high)
+        {
+            int num = low - 1;
+            bool invalidInput = true;
+            while (invalidInput)
+            {
+                Console.WriteLine($"{prompt} between {low} and {high}: ");
+                num = int.Parse(Console.ReadLine());
+                if (num >= low && num <= high)
+                    invalidInput = false;
+                else
+                    Console.WriteLine("Error: Invalid Input.");
+            }
+            return num;
+        }
+
+        static int getNum2(string prompt, int low, int high)
         {
             int num = low - 1;
             bool inValidInput = true;
@@ -56,12 +75,10 @@ namespace _04_methods_InputValidationDemo
                 Console.WriteLine($"{prompt} between {low} and {high}:");
                 string resultString = Console.ReadLine();
                 num = int.Parse(resultString);
-                if ((num < low) || (num > high)){
+                if ((num < low) || (num > high))
                     Console.WriteLine($"Error: Invalid Input.");
-                }
-                else {
+                else 
                     inValidInput = false;
-                }
             }
             return num;
         }

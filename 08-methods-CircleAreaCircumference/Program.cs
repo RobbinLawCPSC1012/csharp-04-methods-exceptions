@@ -19,8 +19,6 @@ namespace _08_methods_CircleAreaCircumference
         static double getNumber(string prompt, double low, double high)
         {
             bool invalidInput = true;
-            double num = low - 1;
-
             while (invalidInput)
             {
                 Console.WriteLine($"{prompt} between {low:n1} and {high:n1}: ");
