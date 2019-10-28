@@ -29,7 +29,7 @@ namespace _04_methods_InputValidationDemo
             double result = low - 1;
             do
             {
-                Console.WriteLine($"{prompt} between {low} and {high}:");
+                Console.WriteLine($"{prompt} between {low:n1} and {high:n1}:");
                 string resultString = Console.ReadLine();
                 result = double.Parse(resultString);
             } while ((result < low) || (result > high));
