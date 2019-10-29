@@ -53,7 +53,7 @@ namespace _30_try_catch_Demo
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Error: {ex}");
+                    Console.WriteLine($"Error: {ex.Message}");
                 }
             }
             return num;
@@ -64,7 +64,9 @@ namespace _30_try_catch_Demo
             int num = 0;
             while (inValidInput)
             {
-                Console.Write(msg);
+               
+
+
                 try
                 {
                     num = int.Parse(Console.ReadLine());

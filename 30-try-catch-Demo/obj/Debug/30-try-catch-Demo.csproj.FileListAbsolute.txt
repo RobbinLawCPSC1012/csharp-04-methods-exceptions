@@ -12,3 +12,10 @@ C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\30-try-catch-Demo\obj\D
 C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.exe
 C:\Users\robbi\Source\Repos\csharp-04-methods-exceptions\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.pdb
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\bin\Debug\30-try-catch-Demo.exe.config
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\bin\Debug\30-try-catch-Demo.exe
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\bin\Debug\30-try-catch-Demo.pdb
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.csprojAssemblyReference.cache
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.csproj.CoreCompileInputs.cache
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.exe
+C:\Users\RobbinL\Source\Repos\csharp-04-methods-exceptions55\30-try-catch-Demo\obj\Debug\30-try-catch-Demo.pdb
