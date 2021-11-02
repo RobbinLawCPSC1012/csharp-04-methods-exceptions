@@ -18,6 +18,7 @@ namespace _08_methods_CircleAreaCircumference
 
         static double getNumber(string prompt, double low, double high)
         {
+            double num = 0.0;
             bool invalidInput = true;
             while (invalidInput)
             {
